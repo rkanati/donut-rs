@@ -1,0 +1,2 @@
+i ported andy sloane's donut.c to rust, with a couple of incidental changes.
+original: https://www.a1k0n.net/2011/07/20/donut-math.html
